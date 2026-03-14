@@ -1,0 +1,6 @@
+buatkan sebuah program menggunakan bahasa c, untuk stok gula sebanyak 85 kg, untuk Dasi SD sebanyak 22pcs, untuk rok pramuka sebanyak 5 pcs, dan untuk minyak sebanyak 120 pcs. Lalu ada beberapa hal yang akan ditanya 
+1. Jumlah total data (N)
+2. Deret Stok (s1, s2, ..., sN).
+3. Kode kategori barang
+
+buatlah seakan kamu mahasiswa semester 2, alur nya adalah user akan memasukan inpputan dan sistem akan mengoutput yang sudah di assign, solusi yang diharapkan adalah output sesuai dengan yang diminta user, saya mengerjakannya di windos, di visual studio code, dan menggunakan compiler MinGW, larangannya adalah jangan sampai deretnya atau kode kategori barang nya diluar logika, tanpa batasan.

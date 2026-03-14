@@ -1,0 +1,20 @@
+buatlah sebuah program menggunakan bahasa c berdasarkan cerita ini, cafetaria IT DEL memiliki sistem sebagai berikut mahasiswa dapat memilih membeli paketan atau ingin prasmanan, jika memilih paketan ia dapat mebeli beberapa paket berikut
+A seharga 10000
+B seharga 20000
+C seharga 15000
+Akan tetapi, jika memilih prasmanan, sistem memberitahu bahwa mahasiswa tersebut harus mengantri dan memilih sesuai yang diinginkan, lalu setelah mengambil, mahasiswa harus mengisi data yang berisikan makanan itu atas nama siapa, makanan yang dipilih akan ditimbang
+makanannya adalah sebagai berikut
+nasi 100 gr
+telur 15 gr
+gorengan 30 gr
+kerupuk 10 gr
+sambal 10 gr
+lain  lain 25 gr
+jika ;
+kurang dari  150 gr maka yang dibayar adlah 12000
+jika lebih dari 150 gr dan kurang dari 200 gr maka yang dibayar adalah 15000
+dan jika lebih dari 200 gr bayar 20000
+jika lebih dari 250 maka sistem memberitahu untuk mengurangi mkanan
+Lalu jika sudah memenuhi syarat sistem memberitahu harga yang harus dibayar lalu sistem bertanya pembayaran melalui apa, setelah itu keluarkan struk yang berisi Nama pemilik makanan, harga, dan berat makanan, selesai
+
+buat programnya seakan kamu mahasiswa semester 2, lalu saya mengerjakannya di windows, di visual studio code, menggunakan compiler MinGW, ingat larangannya jika lebih dari 250 gr kurangi makanannya
